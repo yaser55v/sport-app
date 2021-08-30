@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd3f6d76.chunk.css",
+    "main.js": "/static/js/main.39e77ed4.chunk.js",
+    "main.js.map": "/static/js/main.39e77ed4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.62558e51.js",
+    "runtime-main.js.map": "/static/js/runtime-main.62558e51.js.map",
+    "static/css/2.0d5eca20.chunk.css": "/static/css/2.0d5eca20.chunk.css",
+    "static/js/2.e0b41340.chunk.js": "/static/js/2.e0b41340.chunk.js",
+    "static/js/2.e0b41340.chunk.js.map": "/static/js/2.e0b41340.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0d5eca20.chunk.css.map": "/static/css/2.0d5eca20.chunk.css.map",
+    "static/css/main.fd3f6d76.chunk.css.map": "/static/css/main.fd3f6d76.chunk.css.map",
+    "static/js/2.e0b41340.chunk.js.LICENSE.txt": "/static/js/2.e0b41340.chunk.js.LICENSE.txt",
+    "static/media/Apple-Store.f1b6f767.svg": "/static/media/Apple-Store.f1b6f767.svg",
+    "static/media/Frame-2.4b6aca90.svg": "/static/media/Frame-2.4b6aca90.svg",
+    "static/media/Google-Play.55b123c2.svg": "/static/media/Google-Play.55b123c2.svg",
+    "static/media/Group-10.42fb8bd2.svg": "/static/media/Group-10.42fb8bd2.svg",
+    "static/media/LOGO.44aadeb4.svg": "/static/media/LOGO.44aadeb4.svg",
+    "static/media/index.css": "/static/media/bg.a736234b.svg",
+    "static/media/cover.a40fbd83.svg": "/static/media/cover.a40fbd83.svg",
+    "static/media/designer.022d917c.svg": "/static/media/designer.022d917c.svg",
+    "static/media/dn.6b3e4d88.svg": "/static/media/dn.6b3e4d88.svg",
+    "static/media/facebook-2.aed6fe40.svg": "/static/media/facebook-2.aed6fe40.svg",
+    "static/media/instagram-2.da944d3b.svg": "/static/media/instagram-2.da944d3b.svg",
+    "static/media/logo-light.31f3756e.svg": "/static/media/logo-light.31f3756e.svg",
+    "static/media/nbc.20fd81b8.svg": "/static/media/nbc.20fd81b8.svg",
+    "static/media/sky.3c576859.svg": "/static/media/sky.3c576859.svg",
+    "static/media/sport-tv.e24a6f42.svg": "/static/media/sport-tv.e24a6f42.svg",
+    "static/media/sport.4a149aa0.svg": "/static/media/sport.4a149aa0.svg",
+    "static/media/stat-1.5d9aec8b.svg": "/static/media/stat-1.5d9aec8b.svg",
+    "static/media/stat-2.0a616959.svg": "/static/media/stat-2.0a616959.svg",
+    "static/media/stat-3.38fb7717.svg": "/static/media/stat-3.38fb7717.svg",
+    "static/media/twitter-2.cdc32a09.svg": "/static/media/twitter-2.cdc32a09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62558e51.js",
+    "static/css/2.0d5eca20.chunk.css",
+    "static/js/2.e0b41340.chunk.js",
+    "static/css/main.fd3f6d76.chunk.css",
+    "static/js/main.39e77ed4.chunk.js"
+  ]
+}

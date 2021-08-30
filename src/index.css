@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+.mySwiper {
+  @apply p-16 !important;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  @apply h-0 top-2/3 shadow-none sm:shadow-swiper;
+}
+
+.swiper-button-next:after {
+  content: url(../src/images/arrow-right.svg) !important;
+  @apply mr-14 sm:mr-24;
+}
+
+.swiper-button-prev:after {
+  content: url(../src/images/arrow-left0.svg) !important;
+  @apply ml-14 sm:ml-24;
+}
+.swiper-button-prev {
+    @apply hidden sm:flex !important;
+  }
+
+.swiper-pagination-bullet {
+    @apply w-2 h-2 inline-block rounded-none bg-black  !important;
+}
+.swiper-pagination-bullet-active {
+    @apply opacity-100 bg-brand w-9 h-2 animate-pulse !important;
+}
+
+@tailwind utilities;
